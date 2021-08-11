@@ -1,0 +1,3 @@
+fastapi[all]
+pact-python
+tinydb
