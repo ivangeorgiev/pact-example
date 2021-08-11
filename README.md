@@ -1,7 +1,7 @@
 # pact-example
 End-to-end contract testing example using PACT for Python provider and JavaScript consumer
 
-This example is based on the [pact-js e2e example](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e). We extend the pact-js example, by adding Python provider. Provider is implemented using fastapi, but could be built using any Python REST framework.
+This example is based on the [pact-js e2e example](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e). We extend the pact-js example, by adding Python provider. Python provider exposes similar functionality to the provider from JavaScript e2e example, but is implemented using Python fastapi. Provider could be built using any Python REST framework.
 
 ## Create Consumer Contract
 
