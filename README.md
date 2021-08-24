@@ -5,6 +5,8 @@ This example is based on the [pact-js e2e example](https://github.com/pact-found
 
 ## Create Consumer Contract
 
+Consumer is JavaScript. You need to have [Node.js](https://nodejs.org/en/) installed in order to proceed. At the time this application was created Node.js version 14.17 as used.
+
 ```bash
 $ cd e2e
 $ npm install -ci
